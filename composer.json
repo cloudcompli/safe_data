@@ -11,9 +11,10 @@
             "email": "eric@cloudcompli.com"
         }
     ],
-    "require": [],
+    "require": {
+        "php": ">=5.5"
+    },
     "require-dev": {
-        "php": ">=5.5",
         "phpunit\/phpunit": "4.0.*"
     },
     "autoload": {
